@@ -86,13 +86,21 @@ model %>% compile(
 )
 
 #fitting the model on the training dataset
-model %>% fit(train_x, train_y, epochs = 100, batch_size = 128)
+history <- model %>% fit(train_x, train_y, 
+                         epochs = 10, 
+                         batch_size = 128,
+                         validation_split = 0.2  # hold out data of 20%
+                         )
 
 summary(model)
+plot(history)
 
 # ------------------------------------------------------------------
 # Step 3: Model evaluation on cross validation dataset
 
 loss_and_metrics <- model %>% evaluate(test_x, test_y, batch_size = 128)
 loss_and_metrics
+
+# to check values for predict_classes
+model %>% predict_classes(test_x[1:10,])
 
