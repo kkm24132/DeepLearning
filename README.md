@@ -36,9 +36,9 @@ sh prepare_data.sh
 
 #### 3: Results
 The model was train with [beach data](http://cvcl.mit.edu/scenedatabase/coast.zip)  for 200 epochs.
-![Demo](/DeepLearning/Image_Outpainting/data/beachdata1.png)
+![Demo](/Image_Outpainting/data/beachdata1.png)
 
 #### Recursive painting
-![Demo](/DeepLearning/Image_Outpainting/data/beachdata2.png)
+![Demo](/Image_Outpainting/data/beachdata2.png)
 
 
