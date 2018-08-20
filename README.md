@@ -3,7 +3,7 @@
 
 ## Deep learning using R
 
-###Keras and tensorflow usage in R
+### Keras and tensorflow usage in R
 
 * MNIST dataset is leveraged to identify and predict digits
 * Temperature-forecasting problem, where you have access to a time series of data points coming from sensors installed on the roof of a building, such as temperature, air pressure, and humidity,which is used to predict what the temperature will be 24 hours after the last data point
@@ -21,24 +21,24 @@ This is an implementation of [Painting Outside the Box: Image Outpainting](https
 
 #### 1: Prepare Data: 
 ```sh
-* Downloads the beach data and converts to numpy batch data
-* saves the Numpy batch data to 'data/prepared_data/'
+# Downloads the beach data and converts to numpy batch data
+# saves the Numpy batch data to 'data/prepared_data/'
 sh prepare_data.sh
 ```
 
 #### 2: Build Model: 
 ```sh
-To build Model from scratch you can directly run 'outpaint.ipynb' 
-OR
-You can Download my trained model and move it to 'checkpoint/' and run it.
+# To build Model from scratch you can directly run 'outpaint.ipynb' 
+# OR
+# You can Download my trained model and move it to 'checkpoint/' and run it.
 ```
 
 
 #### 3: Results
 The model was train with [beach data](http://cvcl.mit.edu/scenedatabase/coast.zip)  for 200 epochs.
-![Demo](https://i.imgur.com/lmhhIqv.png)
+![Demo](/DeepLearning/Image_Outpainting/data/beachdata1.png)
 
 #### Recursive painting
-![Demo](https://i.imgur.com/RCp4Wzc.png)
+![Demo](/DeepLearning/Image_Outpainting/data/beachdata2.png)
 
 
