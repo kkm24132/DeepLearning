@@ -11,6 +11,20 @@ Major Deep Learning types are as follows:
 * Recurrent neural networks
 * Recursive neural networks
 ```
+Deep Learning Framework is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler. Some of the top DL frameworks are described below:
+```
+* Tensorflow
+* Theano
+* Keras
+* Caffe
+* Torch
+* Deeplearning4j
+* MXNet
+* Microsoft Cognitive toolkit
+* Lasagne
+* BigDL
+```
+
 
 ## Deep learning using R
 
