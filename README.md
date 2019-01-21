@@ -11,6 +11,20 @@ Major Deep Learning types are as follows:
 * Recurrent neural networks
 * Recursive neural networks
 ```
+Some key Use Cases of Deep Learning are:
+```
+* Face recognition
+* Image classification
+* Speech recognition
+* Text-to-Speech generation
+* Medical diagnosis
+* Machine translation
+* Handwriting transcription
+* Autonomous Cars: drivable area, lane keeping, smart driving
+* Digital assistants
+* Ads, search, social recommendations
+```
+
 Deep Learning Framework is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler. Some of the top DL frameworks are described below:
 ```
 * Tensorflow
