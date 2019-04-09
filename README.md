@@ -11,7 +11,7 @@ Major Deep Learning types are as follows:
 * Recurrent neural networks
 * Recursive neural networks
 ```
-Some key Use Cases of Deep Learning are:
+Some key Use Cases of Deep Learning are as follows:
 ```
 * Face recognition
 * Image classification
