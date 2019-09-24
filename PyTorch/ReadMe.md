@@ -7,4 +7,6 @@
 - Leveraging PyTorch to use RNN for Stock Prediction
   - Blog Ref: http://chandlerzuo.github.io/blog/2017/11/darnn
   - Github Ref: https://github.com/Seanny123/da-rnn
-  
+- Predict Google stock price
+  - Github Ref: https://github.com/stabgan/Recurrent-Neural-Networks-to-predict-Google-Stock-Price
+- Using torchdata: https://github.com/szymonmaszke/torchdata
