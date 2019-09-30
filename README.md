@@ -39,6 +39,11 @@ Deep Learning Framework is an essential supporting fundamental structure that he
 * BigDL
 ```
 
+Deep Learning Framework | Release Year|Langugage  |CUDA Supported?|Pre-trained Models?|
+------------------------|-------------|-----------|---------------|-------------------|
+TensorFlow              | 2015        |C++, Python| Yes           | Yes               |
+Keras                   | 2015        |Python     | Yes           | Yes               |
+PyTorch                 | 2016        |C, Python  | Yes           | Yes               |
 
 ## Deep learning using R
 
