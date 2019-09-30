@@ -25,25 +25,23 @@ Some key Use Cases of Deep Learning are as follows:
 * Ads, search, social recommendations
 ```
 
-Deep Learning Framework is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler. Some of the top DL frameworks are described below:
-```
-* Tensorflow
-* Theano
-* Keras
-* Caffe
-* Torch
-* Deeplearning4j
-* MXNet
-* Microsoft Cognitive toolkit
-* Lasagne
-* BigDL
-```
+Deep Learning Framework is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler. 
 
 Deep Learning Framework | Release Year|Langugage  |CUDA Supported?|Pre-trained Models?|
 ------------------------|-------------|-----------|---------------|-------------------|
 TensorFlow              | 2015        |C++, Python| Yes           | Yes               |
 Keras                   | 2015        |Python     | Yes           | Yes               |
 PyTorch                 | 2016        |C, Python  | Yes           | Yes               |
+Caffe                   | 2013        |C++        | Yes           | Yes               |
+Deeplearning4j          | 2014        |C++, Java  | Yes           | Yes               |
+
+Some of the additional DL frameworks are as follows:
+* Theano
+* MXNet
+* Microsoft Cognitive toolkit
+* Lasagne
+* BigDL
+
 
 ## Deep learning using R
 
