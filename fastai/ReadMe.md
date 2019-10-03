@@ -1,4 +1,4 @@
-# fast.ai Reference for Deep Learning
+## fast.ai Reference for Deep Learning
 
 - [ ] [fast.ai course v3 for Deep Learning](https://course.fast.ai/index.html)
 
@@ -15,5 +15,7 @@
 - [ ] **IBM DataPlatform Notebook** - IBM introduced Watson Data Platform and Data Science Experience (DSX) back in 2016 with support for open-source options. These options included Apache Spark, R, Python, Scala and Jupyter notebooks. It eventually started its platform for multi-cloud freedom of choice for data science work. This was done with the help of containerization of the product by way of Kubernetes. As a result, it can be deployed in Docker or CloudFoundry containers wherever the data resides. IBM DataPlatform Notebooks, unlike Google Colab, have containerization for multi-cloud deployment or a hybrid deployment. Colab needs data science to be fone on its own public cloud.
 - [ ] **Amazon Sagemaker** - Amazon SageMaker notebook runs on the Jupyter Notebook App. It is responsible to create and manage Jupyter notebooks that can further be used to process data and further train and deploy ML models. For the training and deployment of the models, it provides APIs. Amazon SageMaker provides a console that lets the user use the console UI to start model training or deploy a model. It allows for easy integration of ML models in applications. 
 
+## Model Interpretability using TensorFlow 2.0
 
+[Check Google Colab here](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
 
