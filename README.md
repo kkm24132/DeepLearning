@@ -6,23 +6,23 @@ These are powerful when dataset is large and can manage multiple functions in pa
 
 Major Deep Learning types are as follows:
 
-* _Unsupervised pretrained networks (UPNs)_
-* _Convolutional neural networks (CNNs)_
-* _Recurrent neural networks_
-* _Recursive neural networks_
+- [ ] _Unsupervised pretrained networks (UPNs)_
+- [ ] _Convolutional neural networks (CNNs)_
+- [ ] _Recurrent neural networks_
+- [ ] _Recursive neural networks_
 
 Some key Use Cases of Deep Learning are as follows:
 
-* _Face recognition_
-* _Image classification_
-* _Speech recognition_
-* _Text-to-Speech generation_
-* _Medical diagnosis_
-* _Machine translation_
-* _Handwriting transcription_
-* _Autonomous Cars: drivable area, lane keeping, smart driving_
-* _Digital assistants_
-* _Ads, search, social recommendations_
+- [ ] _Face recognition_
+- [ ] _Image classification_
+- [ ] _Speech recognition_
+- [ ] _Text-to-Speech generation_
+- [ ] _Medical diagnosis_
+- [ ] _Machine translation_
+- [ ] _Handwriting transcription_
+- [ ] _Autonomous Cars: drivable area, lane keeping, smart driving_
+- [ ] _Digital assistants_
+- [ ] _Ads, search, social recommendations_
 
 Deep Learning Framework is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler. 
 
