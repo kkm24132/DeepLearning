@@ -1,3 +1,7 @@
+PyTorch's increasing dominance in Research shows how it is growing in terms usage for several research areas. Please check out [here](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/) Specifically we are seeing more papers leveraging PyTorch in CVPR, ACL and NAACL etc that have seen rise in terms of growth compared to 2018 vs 2019 (number of publications using this).
+
+
+
 ## References
 
 ```
