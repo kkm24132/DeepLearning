@@ -6,10 +6,10 @@ These are powerful when dataset is large and can manage multiple functions in pa
 
 Major Deep Learning types are as follows:
 
-- [ ] _Unsupervised pretrained networks (UPNs)_
-- [ ] _Convolutional neural networks (CNNs)_
-- [ ] _Recurrent neural networks_
-- [ ] _Recursive neural networks_
+- [X] _Unsupervised pretrained networks (UPNs)_
+- [X] _Convolutional neural networks (CNNs)_
+- [X] _Recurrent neural networks_
+- [X] _Recursive neural networks_
 
 Some key Use Cases of Deep Learning are as follows:
 
