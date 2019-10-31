@@ -13,16 +13,16 @@ Major Deep Learning types are as follows:
 
 Some key Use Cases of Deep Learning are as follows:
 
-- [ ] _Face recognition_
-- [ ] _Image classification_
-- [ ] _Speech recognition_
-- [ ] _Text-to-Speech generation_
-- [ ] _Medical diagnosis_
-- [ ] _Machine translation_
-- [ ] _Handwriting transcription_
-- [ ] _Autonomous Cars: drivable area, lane keeping, smart driving_
-- [ ] _Digital assistants_
-- [ ] _Ads, search, social recommendations_
+- [X] _Face recognition_
+- [X] _Image classification_
+- [X] _Speech recognition_
+- [X] _Text-to-Speech generation_
+- [X] _Medical diagnosis_
+- [X] _Machine translation_
+- [X] _Handwriting transcription_
+- [X] _Autonomous Cars: drivable area, lane keeping, smart driving_
+- [X] _Digital assistants_
+- [X] _Ads, search, social recommendations_
 
 Deep Learning Framework is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler. 
 
