@@ -6,7 +6,7 @@ Deep Learning is a subset of Machine Learning. It deals with deep neural network
 These are powerful when dataset is large and can manage multiple functions in parallel.
 
 ## Why Deep Learning?
-![plot of Why Deep Learning Needed](/WhyDeeplearning.PNG)
+![plot of Why Deep Learning Needed](/WhyDeepLearning.png)
 
 Major Deep Learning types are as follows:
 
