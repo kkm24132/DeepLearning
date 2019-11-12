@@ -29,16 +29,16 @@ Deep Learning Framework is an essential supporting fundamental structure that he
 
 Deep Learning Framework | Release Year|Langugage  |CUDA Supported?|Pre-trained Models?|
 ------------------------|-------------|-----------|---------------|-------------------|
-TensorFlow              | 2015        |C++, Python| Yes           | Yes               |
+TensorFlow (Google)     | 2015        |C++, Python| Yes           | Yes               |
 Keras                   | 2015        |Python     | Yes           | Yes               |
 PyTorch                 | 2016        |C, Python  | Yes           | Yes               |
 Caffe                   | 2013        |C++        | Yes           | Yes               |
 Deeplearning4j          | 2014        |C++, Java  | Yes           | Yes               |
 
 Some of the additional DL frameworks are as follows:
-* Theano
-* MXNet
-* Microsoft Cognitive toolkit
+* Theano (University of Montreal)
+* MXNet (Amazon)
+* Microsoft Cognitive toolkit - CNTK (Microsoft)
 * Lasagne
 * BigDL
 
