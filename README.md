@@ -48,6 +48,7 @@ Some of the additional DL frameworks are as follows:
 
 ## Certification and Key References
 
+- [fast.ai Link for learning](https://www.fast.ai/)
 - deeplearning.ai Certification from Coursera (https://www.coursera.org/specializations/deep-learning)
   - Neural networks and Deep Learning
   - Improving deep neural networks
@@ -55,6 +56,8 @@ Some of the additional DL frameworks are as follows:
   - Convolutional neural networks
   - Sequence models
 - Deep learning notes from Coursera DL course by Andrew Ng - this may be useful for reference (https://lnkd.in/gBGaSDK)
+- [Understanding and Coding using Python / R from scratch from AV](https://www.analyticsvidhya.com/blog/2020/07/neural-networks-from-scratch-in-python-and-r/)
+- [Deploy an Image Classification Model using flask](https://www.analyticsvidhya.com/blog/2020/07/deploy-an-image-classification-model-using-flask/)
 
 ## Storage - GPU related options (Disclaimer: referenced from various sites as part of understanding - may not be up to date, please use for just reference, and check on your own)
 
