@@ -56,6 +56,18 @@ Some of the additional DL frameworks are as follows:
   - Sequence models
 - Deep learning notes from Coursera DL course by Andrew Ng - this may be useful for reference (https://lnkd.in/gBGaSDK)
 
+## Storage - GPU related options (Disclaimer: referenced from various sites as part of understanding - may not be up to date, please use for just reference, and check on your own)
+
+Vendor offering GPU storage options | K80 offering |V100 offering  |Storage provisioning | Remarks             |
+------------------------------------|--------------|---------------|---------------------|---------------------|
+Google Collab                       |Free          |Not sure       |Upto 15 GB           |TPU also offered free|
+Kaggle Kernels                      |Free          |               |Upto 8 GB            |                     |
+MSFT Azure                          |$0.87         |$2.95          |$0.10                |                     |
+AWS                                 |$0.90         |$3.06          |$0.10                |                     |
+Google Cloud Platform               |$1.21         |$3.24          |$0.03                |                     |
+Spell                               |$0.90         |$3.06          |                     |                     |
+
+
 ## Deep learning using R - Examples
 
 ### Keras and tensorflow usage in R
