@@ -6,6 +6,7 @@ Deep Learning is a subset of Machine Learning. It deals with deep neural network
 These are powerful when dataset is large and can manage multiple functions in parallel.
 
 ## Why Deep Learning?
+
 ![plot of Why Deep Learning Needed](/WhyDeepLearning.png)
 
 ### Major Deep Learning Types
@@ -45,15 +46,24 @@ Some of the additional DL frameworks are as follows:
 * Lasagne
 * BigDL
 
+## Certification and Key References
 
-## Deep learning using R
+- deeplearning.ai Certification from Coursera (https://www.coursera.org/specializations/deep-learning)
+  - Neural networks and Deep Learning
+  - Improving deep neural networks
+  - Structuring ML projects
+  - Convolutional neural networks
+  - Sequence models
+- Deep learning notes from Coursera DL course by Andrew Ng - this may be useful for reference (https://lnkd.in/gBGaSDK)
+
+## Deep learning using R - Examples
 
 ### Keras and tensorflow usage in R
 
 * MNIST dataset is leveraged to identify and predict digits
 * Temperature-forecasting problem, where you have access to a time series of data points coming from sensors installed on the roof of a building, such as temperature, air pressure, and humidity,which is used to predict what the temperature will be 24 hours after the last data point
 
-## Deep learning using Python
+## Deep learning using Python - Examples
 
 ### Keras implementation of Image OutPainting
 This is an implementation of [Painting Outside the Box: Image Outpainting](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf) paper from Standford University. Some changes have been made to work with 256*256 image.
