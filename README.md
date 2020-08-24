@@ -8,14 +8,14 @@ These are powerful when dataset is large and can manage multiple functions in pa
 ## Why Deep Learning?
 ![plot of Why Deep Learning Needed](/WhyDeepLearning.png)
 
-Major Deep Learning types are as follows:
+### Major Deep Learning Types
 
 - [X] _Unsupervised pretrained networks (UPNs)_
 - [X] _Convolutional neural networks (CNNs)_
 - [X] _Recurrent neural networks_
 - [X] _Recursive neural networks_
 
-Some key Use Cases of Deep Learning are as follows:
+### Use Cases of Deep Learning
 
 - [X] _Face recognition_
 - [X] _Image classification_
@@ -28,7 +28,7 @@ Some key Use Cases of Deep Learning are as follows:
 - [X] _Digital assistants_
 - [X] _Ads, search, social recommendations_
 
-Deep Learning Framework is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler. 
+### Deep Learning Framework (is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler) 
 
 Deep Learning Framework | Release Year|Langugage  |CUDA Supported?|Pre-trained Models?|
 ------------------------|-------------|-----------|---------------|-------------------|
