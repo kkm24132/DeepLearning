@@ -13,7 +13,7 @@ These are powerful when dataset is large and can manage multiple functions in pa
 
 - [X] _Unsupervised pretrained networks (UPNs)_
 - [X] _Convolutional neural networks (CNNs)_
-- [X] _Recurrent neural networks_
+- [X] _Recurrent neural networks (RNN)_
 - [X] _Recursive neural networks_
 - [X] _LSTMs (Long Short Term Memory)_
 
