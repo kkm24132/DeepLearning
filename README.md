@@ -61,7 +61,8 @@ Some of the additional DL frameworks are as follows:
 - [Deploy an Image Classification Model using flask](https://www.analyticsvidhya.com/blog/2020/07/deploy-an-image-classification-model-using-flask/)
 - Fundamentals and Concepts Build up
   - [Understanding of Tensors](https://www.analyticsvidhya.com/blog/2017/03/tensorflow-understanding-tensors-and-graphs/?utm_source=blog&utm_medium=comprehensive-popular-deep-learning-interview-questions-answers)
-  - [Stanford CS224D on DL and Neural Net](https://cs224d.stanford.edu/syllabus.html)
+  - [Stanford CS224D on DL](https://cs224d.stanford.edu/syllabus.html)
+  - [Hyperparameter Tuning, Regularization etc](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/?utm_source=blog&utm_medium=comprehensive-popular-deep-learning-interview-questions-answers)
 
 ## Storage - GPU related options (Disclaimer: referenced from various sites as part of understanding - may not be up to date, please use for just reference, and check on your own)
 
