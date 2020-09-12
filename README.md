@@ -96,14 +96,14 @@ This approach extends the use of Generative Adversarial Networks for inpainting 
 * Inclusion of convolution layers
 
 
-#### 1) Prepare Data: 
+#### 1: Prepare Data: 
 ```sh
 # Downloads the beach data and converts to numpy batch data
 # saves the Numpy batch data to 'data/prepared_data/'
 sh prepare_data.sh
 ```
 
-#### 2) Build Model: 
+#### 2: Build Model: 
 ```sh
 # To build Model from scratch you can directly run 'outpaint.ipynb' 
 # OR
@@ -111,7 +111,7 @@ sh prepare_data.sh
 ```
 
 
-#### 3) Results
+#### 3: Results
 The model trained with [beach data](http://cvcl.mit.edu/scenedatabase/coast.zip)  for 200 epochs.
 ![Demo](/Image_Outpainting/data/beachdata1.png)
 
