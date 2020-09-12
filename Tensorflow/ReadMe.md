@@ -3,6 +3,8 @@
 
 TensorFlow is an open source software library for numerical computation using dataflow graphs. Nodes in the graph represents mathematical operations, while graph edges represent multi-dimensional data arrays (which are called tensors) communicated between them. The flexible architecture allows us to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API.
 
+Official Tensorflow repo - https://github.com/tensorflow/tensorflow
+
 ### Advantages of using Tensorflow
   - Easily train model on CPU/GPU for distributed computing
   - Platform flexibility and reproducibility of output on server, PC, mobile (anywhere)
