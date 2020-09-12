@@ -8,6 +8,12 @@ TensorFlow is an open source software library for numerical computation using da
   - Platform flexibility and reproducibility of output on server, PC, mobile (anywhere)
   - Has an intuitive construct (can visualize the flow of tensors in a graphical way to understand better) 
 
+- Typical workflow follows a lazy approach
+  - Build a computational graph
+  - Initialize variables
+  - Create session
+  - Run graph in session
+  - Close session
 
 ### Tensorflow 2.0
 
