@@ -75,6 +75,31 @@ AWS                                 |$0.90         |$3.06          |$0.10       
 Google Cloud Platform               |$1.21         |$3.24          |$0.03                |                     |
 Spell                               |$0.90         |$3.06          |                     |                     |
 
+## Computer Vision 
+
+### Use Cases
+
+- SOP adherence to check for conformance 
+- Classroom attentiveness
+- Customer attributes identification in cross industry segments
+- Robotic key dispenser
+- Hotel Guest Customization
+- Touchless workplaces
+- Social Distancing
+
+### Typical Production Stack
+
+- A remote SSH login provider (e.g. Azure IoT, pubnub)
+- A choice of processor and board (e.g. Jetson series, NXP)
+- Discrete or in-built accelerator / GPU enabled AI applications (e.g. Google Coral, NCS2)
+- IoT sensors depending on the requirement
+- Protocol stack to send events to cloud (e.g. Hosted services offer AWS, MQTT)
+- Server side event message processing system (e.g. Google Cloud Pub/Sub) - for ingesting event streams at scale
+- NoSQL / Time series data storage system (e.g. InfluxDB)
+- API and other services (especially serverless)
+- Device code deployment and OTA capabilities along with heartbeat status for debugging
+- For cloud based AI application: additional model training pipeline on the server to process cleaned data, build new models, test and evaluate new models etc
+- Offline code capabilities so that it can be reproducible and to handle all no internet scenarios
 
 ## Deep learning using R - Examples
 
