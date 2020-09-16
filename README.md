@@ -101,6 +101,8 @@ Spell                               |$0.90         |$3.06          |            
 - For cloud based AI application: additional model training pipeline on the server to process cleaned data, build new models, test and evaluate new models etc
 - Offline code capabilities so that it can be reproducible and to handle all no internet scenarios
 
+![plot of StreamAnalytics flow architecture](/StreamAnalytics_Google.png)
+
 ## Deep learning using R - Examples
 
 ### Keras and tensorflow usage in R
