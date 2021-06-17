@@ -57,6 +57,7 @@ Some of the additional DL frameworks are as follows:
   - Faster RCNN (Replaces the selective search method with region proposal network which made the algorithm much faster.)
 - This is the reference around [Object Detection - Part 2](https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/?utm_source=blog&utm_medium=a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1)
 - This is the reference around [Object Detection - Part 3](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/?utm_source=blog&utm_medium=a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1) using YOLO Framework
+- Key Algorithms: YOLO, YOLOv4, Scaled-YOLOv4, Faster RCNN, Fast RCNN, RetinaNet etc
 
 ## Certification and Key References
 
