@@ -48,6 +48,15 @@ Some of the additional DL frameworks are as follows:
 * Lasagne
 * BigDL
 
+## Object Detection
+
+- This is a great reference on [Basics of Object Detection - Part1](https://www.analyticsvidhya.com/blog/tag/object-detection/). It covers basic Object Detection algorithms.
+  - CNN (Divides the image into multiple regions and then classify each region into various classes.)
+  - RCNN (Uses selective search to generate regions. Extracts around 2000 regions from each image)
+  - Fast RCNN (Each image is passed only once to the CNN and feature maps are extracted. Selective search is used on these maps to generate predictions. Combines all the three models used in RCNN together)
+  - Faster RCNN (Replaces the selective search method with region proposal network which made the algorithm much faster.)
+- This is the reference around [Object Detection - Part 2](https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/?utm_source=blog&utm_medium=a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1)
+
 ## Certification and Key References
 
 - [fast.ai Link for learning](https://www.fast.ai/)
