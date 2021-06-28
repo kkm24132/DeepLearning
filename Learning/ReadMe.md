@@ -43,7 +43,9 @@ It is also important to get an exposure on tools for usage and how they function
 - Deep Generative Models
 
 ## Content References
-
+- Practical Deep Learning from [fast.ai by Jeremy Howard et al](https://www.fast.ai/)
+- Dive into Deep Learning [by Aston Zhang et al](https://d2l.ai/index.html)
+- [Stanford Deep Learning](http://deeplearning.stanford.edu/tutorial/)
 
 ## Book References
 - Deep Learning by [Ian Goodfellow, Yoshua Bengio and A.Courville](https://www.deeplearningbook.org/) : An MIT Press Book 
