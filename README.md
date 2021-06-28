@@ -11,6 +11,10 @@ These are powerful when dataset is large and can manage multiple functions in pa
 
 ![plot of Why Deep Learning Needed](/WhyDeepLearning.png)
 
+## Learning Specifics
+
+- Please refer and follow from [here on **Learning Specifics**](https://github.com/kkm24132/DeepLearning/tree/master/Learning)
+
 ## Major Deep Learning Types
 
 - [X] _Unsupervised pretrained networks (UPNs)_
