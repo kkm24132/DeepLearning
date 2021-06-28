@@ -6,7 +6,7 @@
 It is important to focus on understanding and conceptual pieces that will enable core of ML and DL.
 
 - Fundamentals around Applied Math and ML fundamentals / Math for Deep Learning
-  - Linear Algebra : Geometry, Linear Algebra, Eigen decompositions, Single Variable Calculus, Multi Variable Calculus, Integral Calculus, Random Variables
+  - Linear Algebra : Geometry, Linear Algebra, Eigen decompositions, Single Variable Calculus, Multi Variable Calculus, Integral Calculus etc.
   - Probability and Statistics
   - Numerical Computations
   - ML Fundamentals
@@ -18,23 +18,22 @@ It is also important to get an exposure on tools for usage and how they function
   - Using AWS Sagemaker, AWS EC2 instances, Google Colab etc
   - Selecting Servers and GPUs
 
+## 2. Core into Neural Net and Deep Learning
+
 - Linear Neural Networks
 - Multilayer Perceptrons
 - Deep Learning Computation
-- CNN
-- Modern CNN
-- RNN
-- Modern RNN
+- CNN and Modern CNN
+- RNN and Modern RNN
 - Attention Mechanisms
 - Optimization Algorithms
 - Computational Performance
 - Computer Vision
-- NLP: Pre-Training
-- NLP: Applications
+- NLP: Pre-Training and Applications
 - Recommender Systems
 - GANs
 
-## Deep Learning Research
+## 3. Deep Learning Research
 - Autoencoders
 - Linear Factor Models
 - Representation Learning
@@ -42,12 +41,13 @@ It is also important to get an exposure on tools for usage and how they function
 - Monte Carlo Methods
 - Deep Generative Models
 
-## Content References
+## 4. Content References
 - Practical Deep Learning from [fast.ai by Jeremy Howard et al](https://www.fast.ai/)
+- [CS 230 Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) : from Stanford
 - Dive into Deep Learning [by Aston Zhang et al](https://d2l.ai/index.html)
 - [Stanford Deep Learning](http://deeplearning.stanford.edu/tutorial/)
 
-## Book References
+## 5. Book References
 - Deep Learning by [Ian Goodfellow, Yoshua Bengio and A.Courville](https://www.deeplearningbook.org/) : An MIT Press Book 
 
 ----------------------------------------------
