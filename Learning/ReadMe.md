@@ -46,9 +46,14 @@ It is also important to get an exposure on tools for usage and how they function
 - [CS 230 Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) : from Stanford
 - Dive into Deep Learning [by Aston Zhang et al](https://d2l.ai/index.html)
 - [Stanford Deep Learning](http://deeplearning.stanford.edu/tutorial/)
+- [Deeplearning.ai from Andrew Ng and team](https://www.deeplearning.ai/)
 
 ## 5. Book References
 - Deep Learning by [Ian Goodfellow, Yoshua Bengio and A.Courville](https://www.deeplearningbook.org/) : An MIT Press Book 
+
+
+## 6. Community References
+- [Facebook DL community](https://www.facebook.com/deeplearningcommunity/)
 
 ----------------------------------------------
 
