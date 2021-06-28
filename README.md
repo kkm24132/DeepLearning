@@ -1,10 +1,9 @@
 
 # Deep Learning
 
-**Wiki Definition: Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.**
+**```Wiki Definition: Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. ```**
 
 Deep Learning is a subset of Machine Learning. It deals with deep neural networks. It is based on a set of algorithms / program components that attempt to model high level abstractions in the dataset by using multiple processing layers with complex structures or otherwise composed of multiple non-linear transformations.
-
 
 These are powerful when dataset is large and can manage multiple functions in parallel.
 
