@@ -7,15 +7,15 @@ Deep Learning is a subset of Machine Learning. It deals with deep neural network
 
 These are powerful when dataset is large and can manage multiple functions in parallel.
 
-## Why Deep Learning?
+## 1. Why Deep Learning?
 
 ![plot of Why Deep Learning Needed](/WhyDeepLearning.png)
 
-## Learning Specifics
+## 2. Learning Specifics
 
 - Please refer and follow from [here on **Learning Specifics**](https://github.com/kkm24132/DeepLearning/tree/master/Learning)
 
-## Major Deep Learning Types
+## 3. Major Deep Learning Types
 
 - [X] _Unsupervised pretrained networks (UPNs)_
 - [X] _Convolutional neural networks (CNNs)_
@@ -23,8 +23,8 @@ These are powerful when dataset is large and can manage multiple functions in pa
 - [X] _Recursive neural networks_
 - [X] _LSTMs (Long Short Term Memory)_
 
-## Use Cases of Deep Learning
-
+## 4. Use Cases of Deep Learning 
+(Non-Exhaustive List)
 - [X] _Face recognition_
 - [X] _Image classification_
 - [X] _Speech recognition_
@@ -36,7 +36,7 @@ These are powerful when dataset is large and can manage multiple functions in pa
 - [X] _Digital assistants_
 - [X] _Ads, search, social recommendations_
 
-## Deep Learning Framework (is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler) 
+## 5. Deep Learning Framework (is an essential supporting fundamental structure that helps to make complexity of DL relatively simpler) 
 
 Deep Learning Framework | Release Year|Langugage  |CUDA Supported?|Pre-trained Models?|
 ------------------------|-------------|-----------|---------------|-------------------|
@@ -53,7 +53,7 @@ Some of the additional DL frameworks are as follows:
 * Lasagne
 * BigDL
 
-## Object Detection
+## 6. Object Detection
 
 - This is a great reference on [Basics of Object Detection - Part1](https://www.analyticsvidhya.com/blog/tag/object-detection/). It covers basic Object Detection algorithms.
   - CNN (Divides the image into multiple regions and then classify each region into various classes.)
@@ -64,7 +64,7 @@ Some of the additional DL frameworks are as follows:
 - This is the reference around [Object Detection - Part 3](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/?utm_source=blog&utm_medium=a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1) using YOLO Framework
 - Key Algorithms: YOLO, YOLOv4, Scaled-YOLOv4, Faster RCNN, Fast RCNN, RetinaNet etc
 
-## Certification and Key References
+## 7. Certification and Key References
 
 - [fast.ai Link for learning](https://www.fast.ai/)
 - deeplearning.ai Certification from Coursera (https://www.coursera.org/specializations/deep-learning)
@@ -81,7 +81,8 @@ Some of the additional DL frameworks are as follows:
   - [Stanford CS224D on DL](https://cs224d.stanford.edu/syllabus.html)
   - [Hyperparameter Tuning, Regularization etc](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/?utm_source=blog&utm_medium=comprehensive-popular-deep-learning-interview-questions-answers)
 
-## Storage - GPU related options (Disclaimer: referenced from various sites as part of understanding - may not be up to date, please use for just reference, and check on your own)
+## 8. Storage - GPU related options 
+(Disclaimer: referenced from various sites as part of understanding - may not be up to date, please use for just reference, and check on your own)
 
 Vendor offering GPU storage options | K80 offering |V100 offering  |Storage provisioning | Remarks             |
 ------------------------------------|--------------|---------------|---------------------|---------------------|
@@ -92,9 +93,9 @@ AWS                                 |$0.90         |$3.06          |$0.10       
 Google Cloud Platform               |$1.21         |$3.24          |$0.03                |                     |
 Spell                               |$0.90         |$3.06          |                     |                     |
 
-## Computer Vision 
+## 9. Computer Vision 
 
-### Use Cases
+### 9a. Use Cases
 
 - SOP adherence to check for conformance 
 - Classroom attentiveness
@@ -104,7 +105,7 @@ Spell                               |$0.90         |$3.06          |            
 - Touchless workplaces
 - Social Distancing
 
-### Typical Production Stack
+### 9b. Typical Production Stack
 
 - A remote SSH login provider (e.g. Azure IoT, pubnub)
 - A choice of processor and board (e.g. Jetson series, NXP)
@@ -120,14 +121,14 @@ Spell                               |$0.90         |$3.06          |            
 
 ![plot of StreamAnalytics flow architecture](/StreamAnalytics_Google.png)
 
-## Deep learning using R - Examples
+## 10. Deep learning using R - Examples
 
 ### Keras and tensorflow usage in R
 
 * MNIST dataset is leveraged to identify and predict digits
 * Temperature-forecasting problem, where you have access to a time series of data points coming from sensors installed on the roof of a building, such as temperature, air pressure, and humidity,which is used to predict what the temperature will be 24 hours after the last data point
 
-## Deep learning using Python - Examples
+## 11. Deep learning using Python - Examples
 
 ### Keras implementation of Image OutPainting
 This is an implementation of [Painting Outside the Box: Image Outpainting](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf) paper from Standford University. Some changes have been made to work with 256*256 image.
@@ -140,14 +141,14 @@ This approach extends the use of Generative Adversarial Networks for inpainting 
 * Inclusion of convolution layers
 
 
-#### 1: Prepare Data: 
+#### a) Prepare Data: 
 ```sh
 # Downloads the beach data and converts to numpy batch data
 # saves the Numpy batch data to 'data/prepared_data/'
 sh prepare_data.sh
 ```
 
-#### 2: Build Model: 
+#### b) Build Model: 
 ```sh
 # To build Model from scratch you can directly run 'outpaint.ipynb' 
 # OR
@@ -155,7 +156,7 @@ sh prepare_data.sh
 ```
 
 
-#### 3: Results
+#### c) Results
 The model trained with [beach data](http://cvcl.mit.edu/scenedatabase/coast.zip)  for 200 epochs.
 ![Demo](/Image_Outpainting/data/beachdata1.png)
 
